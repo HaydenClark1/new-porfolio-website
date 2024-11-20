@@ -1,0 +1,11 @@
+.download-btn,.fullscreen-btn{
+    position: relative;
+    background-color: #f56f0f;
+    font-family: Century;
+    border-width: 2px;
+    border-color: black;
+}
+
+.download-btn:hover,.fullscreen-btn:hover{
+    background-color: black;
+}
